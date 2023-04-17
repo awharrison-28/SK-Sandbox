@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
 using Microsoft.SemanticKernel;
-using Microsoft.SemanticKernel.Connectors.HuggingFace.TextCompletion;
 using Microsoft.SemanticKernel.Connectors.HuggingFace.TextEmbedding;
 using Application.Utils;
 using System.Text.Json;
