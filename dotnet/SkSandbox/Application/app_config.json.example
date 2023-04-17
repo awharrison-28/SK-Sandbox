@@ -1,0 +1,6 @@
+{
+    "embedding_endpoint": "",
+    "embedding_api_key": "",
+    "completion_endpoint": "",
+    "completion_api_key": ""
+}

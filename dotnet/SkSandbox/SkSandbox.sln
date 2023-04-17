@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F130EA43-894E-40B5-BF51-59E8DE3FAF3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milvus", "Milvus\Milvus.csproj", "{659DD967-C947-41C5-B630-D04B813A756B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F130EA43-894E-40B5-BF51-59E8DE3FAF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F130EA43-894E-40B5-BF51-59E8DE3FAF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F130EA43-894E-40B5-BF51-59E8DE3FAF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659DD967-C947-41C5-B630-D04B813A756B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659DD967-C947-41C5-B630-D04B813A756B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659DD967-C947-41C5-B630-D04B813A756B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659DD967-C947-41C5-B630-D04B813A756B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

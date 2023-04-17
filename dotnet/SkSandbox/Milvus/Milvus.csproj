@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IO.Milvus" Version="2.0.0-alpha.3" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="0.11.146.1-preview" />
+  </ItemGroup>
+
+</Project>
